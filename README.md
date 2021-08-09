@@ -5,4 +5,6 @@ Ability to create Spotify usernames (open.spotify.com/user/username) which has b
 
 🎨 Requirements:
     - Python 3.8.2 (https://www.python.org/downloads/)
-    - Requests library (py -m pip install requests)
+    - Requests library (py -m pip install requests | pip install requests)
+
+
